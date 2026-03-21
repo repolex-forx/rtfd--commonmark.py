@@ -24,6 +24,21 @@
         "blob/1e840dcef2bad35cd51df2ef21ee296abd44a585.nq.gz",
         "blob/f30c12a34f3d1f6a78f4a21543e0a83f229f1165.nq.gz",
         "blob/c861ba29c69ff8b15e3c0bddcc4b851eb3da3df8.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz",
+      "repolex": "aggregate/repolex/ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz",
+      "dep": "dep/ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "CommonMark",
+          "packageVersion": "0.9.1",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py",
+          "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+        }
       ]
     },
     {
