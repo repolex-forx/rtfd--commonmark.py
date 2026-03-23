@@ -1,0 +1,29 @@
+{
+  "commit": "c800fa628f2679ea7346499e9ee7c5c24e2cc34a",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/c800fa628f2679ea7346499e9ee7c5c24e2cc34a.nq.gz",
+      "size_bytes": 858685
+    },
+    "dep": {
+      "path": "dep/c800fa628f2679ea7346499e9ee7c5c24e2cc34a.nq.gz",
+      "size_bytes": 422
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "CommonMark",
+      "packageVersion": "0.9.1",
+      "githubOrg": "rtfd",
+      "githubRepo": "commonmark.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sphinx-rtd-theme",
+      "packageVersion": "3.1.0rc2",
+      "githubOrg": "readthedocs",
+      "githubRepo": "sphinx_rtd_theme",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
