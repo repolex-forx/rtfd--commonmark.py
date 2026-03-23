@@ -1,0 +1,36 @@
+{
+  "commit": "568dffc45be82abd0f8365939f04bcd8fca4cc28",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/568dffc45be82abd0f8365939f04bcd8fca4cc28.nq.gz",
+      "size_bytes": 989077
+    },
+    "dep": {
+      "path": "dep/568dffc45be82abd0f8365939f04bcd8fca4cc28.nq.gz",
+      "size_bytes": 567
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "CommonMark",
+      "packageVersion": "0.9.1",
+      "githubOrg": "rtfd",
+      "githubRepo": "commonmark.py",
+      "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+    },
+    {
+      "packageName": "sphinx-rtd-theme",
+      "packageVersion": "3.1.0rc2",
+      "githubOrg": "readthedocs",
+      "githubRepo": "sphinx_rtd_theme",
+      "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+    },
+    {
+      "packageName": "hypothesis",
+      "packageVersion": "6.99.9",
+      "githubOrg": "HypothesisWorks",
+      "githubRepo": "hypothesis",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
