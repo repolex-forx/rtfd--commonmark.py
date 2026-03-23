@@ -1,0 +1,22 @@
+{
+  "commit": "277044484c0a37a5060891c1bdececcf2e82f209",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/277044484c0a37a5060891c1bdececcf2e82f209.nq.gz",
+      "size_bytes": 797760
+    },
+    "dep": {
+      "path": "dep/277044484c0a37a5060891c1bdececcf2e82f209.nq.gz",
+      "size_bytes": 362
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "CommonMark",
+      "packageVersion": "0.9.1",
+      "githubOrg": "rtfd",
+      "githubRepo": "commonmark.py",
+      "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+    }
+  ]
+}
