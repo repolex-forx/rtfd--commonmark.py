@@ -36,6 +36,16 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
+│   │   └── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
+│   ├── lsp
+│   │   ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
+│   │   └── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
+│   └── repolex
+│       ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
+│       └── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
 ├── blob
 │   ├── 07c752b533a3249a0d3e801eb77ef250a176653d.nq.gz
 │   ├── 11215b5d422884765816dc7f37b4d9d53be517b8.nq.gz
@@ -72,6 +82,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
+│   └── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
 ├── filetree
 │   ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
 │   └── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
@@ -82,7 +95,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-8 directories, 38 files
+13 directories, 46 files
 ```
 
 | Directory | What it contains |
@@ -102,4 +115,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py)
 
 ---
-*Parsed on 2026-03-21 by [repolex](https://repolex.ai)*
+*Parsed on 2026-03-23 by [repolex](https://repolex.ai)*
