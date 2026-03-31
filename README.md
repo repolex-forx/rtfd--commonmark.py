@@ -43,6 +43,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 637197fd371357e4736d1be2b6eee0d7e45c5e51.nq.gz
 │   │   ├── 8b99773deb7ecfd1fcf7f1761da492fabdaa3c04.nq.gz
 │   │   ├── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
+│   │   ├── bc19b3b1d7290b62310cc1200384abb5dda208d0.nq.gz
 │   │   ├── bd196fe6ac37757e9d5ec181e0a2342f6ccb81bb.nq.gz
 │   │   ├── bd4338f55389951e5b6b607e3ae8a7693273d8e8.nq.gz
 │   │   ├── c800fa628f2679ea7346499e9ee7c5c24e2cc34a.nq.gz
@@ -54,6 +55,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   │   ├── 637197fd371357e4736d1be2b6eee0d7e45c5e51.nq.gz
 │   │   ├── 8b99773deb7ecfd1fcf7f1761da492fabdaa3c04.nq.gz
 │   │   ├── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
+│   │   ├── bc19b3b1d7290b62310cc1200384abb5dda208d0.nq.gz
 │   │   ├── bd196fe6ac37757e9d5ec181e0a2342f6ccb81bb.nq.gz
 │   │   ├── bd4338f55389951e5b6b607e3ae8a7693273d8e8.nq.gz
 │   │   ├── c800fa628f2679ea7346499e9ee7c5c24e2cc34a.nq.gz
@@ -65,6 +67,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │       ├── 637197fd371357e4736d1be2b6eee0d7e45c5e51.nq.gz
 │       ├── 8b99773deb7ecfd1fcf7f1761da492fabdaa3c04.nq.gz
 │       ├── ae4cb27cd4da4d0b87bff19d2f480eecd96290a1.nq.gz
+│       ├── bc19b3b1d7290b62310cc1200384abb5dda208d0.nq.gz
 │       ├── bd196fe6ac37757e9d5ec181e0a2342f6ccb81bb.nq.gz
 │       ├── bd4338f55389951e5b6b607e3ae8a7693273d8e8.nq.gz
 │       ├── c800fa628f2679ea7346499e9ee7c5c24e2cc34a.nq.gz
@@ -238,14 +241,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── fa236a8c9d4804874b2418efe641182b670c8d88.nq.gz
 ├── branch
 │   └── branch.nq.gz
-├── commit
-│   └── commit.nq.gz
-└── dep
-    ├── 277044484c0a37a5060891c1bdececcf2e82f209.nq.gz
-    ├── 568dffc45be82abd0f8365939f04bcd8fca4cc28.nq.gz
-    └── 637197fd371357e4736d1be2b6eee0d7e45c5e51.nq.gz
+└── commit
+    └── commit.nq.gz
 
-9 directories, 200 files
+8 directories, 200 files
 ```
 
 | Directory | What it contains |
